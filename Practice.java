@@ -8,8 +8,13 @@ public class Practice{
         // Second Commit
         System.out.println("Hello Tejj !! This is your Second Commit !!!");
 
-        //Undo comiited Changes bt Command >>> git revert
+        //Undo Uncomiited Changes by Command >>> git checkout --
         System.out.println("Checkout Command used to undo uncommited changes ");
+
+        //Undo comiited Changes by Command >>> git revert
+        System.out.println("revert Command used to undo commited changes ");
+
+
         
     }
 }
