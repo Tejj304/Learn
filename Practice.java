@@ -12,7 +12,7 @@ public class Practice{
         System.out.println("Checkout Command used to undo uncommited changes ");
 
         //Undo comiited Changes by Command >>> git revert
-        System.out.println("revert Command used to undo commited changes ");
+        System.out.println("revert = Command used to undo commited changes ...");
 
 
         
