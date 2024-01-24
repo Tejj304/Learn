@@ -21,6 +21,8 @@ public class Practice{
         System.out.println("Your Name is : "+ fname + " " + lname );
         int age = 21;
         System.out.println("Your age is : " + age);
+        String bDate = "30 Apr 2002";
+        System.out.println("Your Birth Date is : " + bDate);
 
         
     }
